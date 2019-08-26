@@ -9,6 +9,10 @@ grammar_cjkRuby: true
 ![主要的特性](https://user-images.githubusercontent.com/9434884/50505538-2c484880-0aaf-11e9-9ffc-cbaaef20be2b.png)
 
 
+# 2.Hystrix提供的能力
+
+
+
 ## Sentinel与Hystrix功能比较
 |  	| Sentinel | 	Hystrix | 
 | -------- | ---------- | ------- |
