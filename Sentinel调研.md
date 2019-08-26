@@ -13,7 +13,7 @@ grammar_cjkRuby: true
 ![场景](https://raw.githubusercontent.com/wiki/Netflix/Hystrix/images/soa-2-640.png)
 
 
-## Sentinel与Hystrix功能比较
+## Sentinel、Hystrix、Resilience4j功能比较
 [限流熔断技术选型：从Hystrix到Sentinel](https://www.sohu.com/a/282806665_268033)
 
 |  	| Sentinel | 	Hystrix |  Resilience4j |
