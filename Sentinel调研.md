@@ -10,7 +10,7 @@ grammar_cjkRuby: true
 
 
 # 2.Hystrix提供的能力
-
+![场景](https://raw.githubusercontent.com/wiki/Netflix/Hystrix/images/soa-2-640.png)
 
 
 ## Sentinel与Hystrix功能比较
