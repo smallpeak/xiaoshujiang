@@ -28,7 +28,7 @@ grammar_cjkRuby: true
 - 流量QPS/线程数控制
 ![流量](./images/流控.png)
 - 服务降级控制
-
+![服务降级](./images/服务降级.png)
 
 
 
