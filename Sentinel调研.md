@@ -24,6 +24,10 @@ grammar_cjkRuby: true
 ![实时监控曲线](./images/sentinel界面实时监控.png)
 
 2. 完善的熔断降级策略
+![熔断降级配置](./images/流控降级热点.png)
+- 流量QPS/线程数控制
+- 
+- 服务降级控制
 
 
 
