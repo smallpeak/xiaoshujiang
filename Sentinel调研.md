@@ -1,7 +1,6 @@
 ---
 title: Sentinel调研
 tags: QPS,限流
-grammar_cjkRuby: true
 ---
 
 
