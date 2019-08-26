@@ -20,7 +20,10 @@ grammar_cjkRuby: true
 - 轻量级、高性能、sentinel-core 没有任何多余依赖，打包后只有不到 200 KB
 
 ## 1.2可视化控制台
+1. 实时监控曲线
 
+
+2. 
 
 
 
