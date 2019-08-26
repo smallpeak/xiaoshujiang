@@ -28,7 +28,7 @@ grammar_cjkRuby: true
 
 
 ## 1.3应用中心可用场景
-
+1. 实时
 
 
 # 2.Hystrix提供的能力
