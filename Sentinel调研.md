@@ -23,7 +23,8 @@ grammar_cjkRuby: true
 1. 实时监控曲线
 ![实时监控曲线](./images/sentinel界面实时监控.png)
 
-2. 
+2. 完善的熔断降级策略
+
 
 
 
