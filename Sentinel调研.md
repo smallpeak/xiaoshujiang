@@ -14,8 +14,8 @@ grammar_cjkRuby: true
 
 
 ## Sentinel与Hystrix功能比较
-|  	| Sentinel | 	Hystrix | 
-| -------- | ---------- | ------- |
+|  	| Sentinel | 	Hystrix |  Resilience4j |
+| -------- | ---------- | ------- | ------- |
 | 隔离策略 | 信号量隔离 |	线程池隔离/信号量隔离  |
 | 熔断降级策略  | 	基于响应时间或失败比率 	基于失败比率  |
 | 实时指标实现 |	滑动窗口 	滑动窗口（基于 RxJava）  |
