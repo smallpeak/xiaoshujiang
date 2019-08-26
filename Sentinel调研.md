@@ -42,5 +42,6 @@ grammar_cjkRuby: true
     系统负载保护
     实时监控和控制台
  3. Resilience4j关注点
-   
+    Hystrix停更后的官方推荐方案
+	轻量的熔断降级库
 
