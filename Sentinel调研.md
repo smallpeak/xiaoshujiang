@@ -44,4 +44,5 @@ grammar_cjkRuby: true
  3. Resilience4j关注点
     Hystrix停更后的官方推荐方案
 	轻量的熔断降级库
+	使用较小较新的项目，缺乏生产级别的配套设施
 
