@@ -23,3 +23,8 @@ grammar_cjkRuby: true
 | 系统负载保护  | 	支持  | 	不支持  |
 | 控制台  | 	开箱即用，可配置规则、查看秒级监控、机器发现等  | 	不完善  |
 | 常见框架的适配  | 	Servlet、Spring Cloud、Dubbo、gRPC 等  | 	Servlet、Spring Cloud Netflix  |
+
+ 1. Hystrix关注点
+ 
+ 2. Sentinel关注点
+
