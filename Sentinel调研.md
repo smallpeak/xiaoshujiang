@@ -33,12 +33,15 @@ grammar_cjkRuby: true
 
 
 ## 1.3应用中心可用场景
-1. 实时
+1. 接口数据QPS的统计
+ 春节期间应商店流量冲垮宕机，但是未捕获到峰值时期的接口的QPS数据，而Sentinel可以支持秒级的数据统计，只需要扩展相应的接口，将数据缓存到Redis中，
+ 然后持久化到MongDb或者Mysql中，就可以在事故发生后恢复崩溃前的实际请求
+2. 对于日常请求
 
 
 # 2.Hystrix提供的能力
 ![场景](https://raw.githubusercontent.com/wiki/Netflix/Hystrix/images/soa-2-640.png)
-
+NetFlix  停止更新维护从去年已经停止更新
 
 ## Sentinel、Hystrix、Resilience4j功能比较
 [限流熔断技术选型：从Hystrix到Sentinel](https://www.sohu.com/a/282806665_268033)
