@@ -18,6 +18,8 @@ grammar_cjkRuby: true
 -  集群流量不均匀：通过集群限流来解决集群各个机器的流量不均导致整体限流效果不精确的问题；
 - 支持 QPS、响应时间、限流数、异常数
 
+
+
 # 2.Hystrix提供的能力
 ![场景](https://raw.githubusercontent.com/wiki/Netflix/Hystrix/images/soa-2-640.png)
 
