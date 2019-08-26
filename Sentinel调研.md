@@ -21,7 +21,7 @@ grammar_cjkRuby: true
 
 ## 1.2可视化控制台
 1. 实时监控曲线
-
+![实时监控曲线](./images/sentinel界面实时监控.png)
 
 2. 
 
