@@ -27,7 +27,7 @@ grammar_cjkRuby: true
 | 系统负载保护  | 	支持  | 	不支持  |  不支持 |
 | 控制台  | 	开箱即用，可配置规则、查看秒级监控、机器发现等  | 	不完善  | 不提供控制台，可对接其它监控系统 |
 | 常见框架的适配  | 	Servlet、Spring Cloud、Dubbo、gRPC 等  | 	Servlet、Spring Cloud Netflix  |
-| 收欢迎程度 |      Star:8428 Fork:2442 2019/8/26最后一次代码体检   |       Star:18119 Fork:3729  2018/10/20最后一次代码体检     |
+| 收欢迎程度 |      Star:8428 Fork:2442 2019/8/26最后一次代码体检   |       Star:18119 Fork:3729  2018/10/20最后一次代码体检     |  Star:4121 Fork:490  |
 | 开源公司 | 阿里  双11  | NetFlix  停止更新维护 |
 
  1. Hystrix关注点
