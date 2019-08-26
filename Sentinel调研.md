@@ -25,6 +25,11 @@ grammar_cjkRuby: true
 | 常见框架的适配  | 	Servlet、Spring Cloud、Dubbo、gRPC 等  | 	Servlet、Spring Cloud Netflix  |
 
  1. Hystrix关注点
-     
+      隔离 和 熔断 为主的容错机制，超时或被熔断的调用将会快速失败，并可以提供 fallback 机制
  2. Sentinel关注点
+    多样化的流量控制
+    熔断降级
+    系统负载保护
+    实时监控和控制台
+ 3. List item
 
