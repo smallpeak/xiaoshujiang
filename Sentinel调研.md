@@ -27,7 +27,7 @@ grammar_cjkRuby: true
 | 系统负载保护  | 	支持  | 	不支持  |
 | 控制台  | 	开箱即用，可配置规则、查看秒级监控、机器发现等  | 	不完善  |
 | 常见框架的适配  | 	Servlet、Spring Cloud、Dubbo、gRPC 等  | 	Servlet、Spring Cloud Netflix  |
-| 收欢迎程度 |      Star:8428 Fork:2442    |              |
+| 收欢迎程度 |      Star:8428 Fork:2442    |       Star:18119 Fork:3729       |
 
  1. Hystrix关注点
       隔离 和 熔断 为主的容错机制，超时或被熔断的调用将会快速失败，并可以提供 fallback 机制
