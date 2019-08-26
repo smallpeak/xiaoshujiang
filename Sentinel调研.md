@@ -8,7 +8,7 @@ grammar_cjkRuby: true
 # 1.Sentinel提供的能力
 ![主要的特性](https://user-images.githubusercontent.com/9434884/50505538-2c484880-0aaf-11e9-9ffc-cbaaef20be2b.png)
 
-适用的场景
+## 1.1 适用的场景
 
 - 双十一零点持续峰值：限流、慢调用降级
 -  秒杀（脉冲流量）：限流、慢调用降级
@@ -18,6 +18,12 @@ grammar_cjkRuby: true
 -  集群流量不均匀：通过集群限流来解决集群各个机器的流量不均导致整体限流效果不精确的问题；
 - 支持 QPS、响应时间、限流数、异常数
 - 轻量级、高性能、sentinel-core 没有任何多余依赖，打包后只有不到 200 KB
+
+## 1.2友好控制台
+
+
+## 1.3应用中心可用场景
+
 
 
 # 2.Hystrix提供的能力
