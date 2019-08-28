@@ -50,6 +50,7 @@ grammar_cjkRuby: true
 ![主要的特性](https://user-images.githubusercontent.com/9434884/50505538-2c484880-0aaf-11e9-9ffc-cbaaef20be2b.png)
 
 ## 2.1Sentinel工作主流程
+[主流程](https://github.com/alibaba/Sentinel/wiki/Sentinel%E5%B7%A5%E4%BD%9C%E4%B8%BB%E6%B5%81%E7%A8%8B)
 
 ## 2.2适用的场景
 
