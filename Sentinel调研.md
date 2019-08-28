@@ -1,5 +1,5 @@
 ---
-title: Sentinel技术选型调研
+title: 应用商店服务稳定性保障技术选型调研
 tags: QPS,限流
 grammar_cjkRuby: true
 ---
