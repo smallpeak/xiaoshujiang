@@ -1,5 +1,5 @@
 ---
-title: Sentinel调研
+title: Sentinel技术选型调研
 tags: QPS,限流
 grammar_cjkRuby: true
 ---
