@@ -51,6 +51,19 @@ grammar_cjkRuby: true
 - 对已有业务的性能影响
 - 引入后常见的坑以及解决的难度
 
+# 2.接入的时间成本
+
+
+# 3.对代码的侵入程度
+
+
+# 4.对已有业务的性能影响
+
+
+# 5.引入后常见的坑以及解决的难度
+
+
+
 # 2.Sentinel提供的能力
 ![主要的特性](https://user-images.githubusercontent.com/9434884/50505538-2c484880-0aaf-11e9-9ffc-cbaaef20be2b.png)
 
