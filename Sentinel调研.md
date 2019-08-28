@@ -45,9 +45,11 @@ grammar_cjkRuby: true
 	使用较小较新的项目，缺乏生产级别的配套设施
 	
 由于Resilience4j缺乏生产级别的应用，本次调研只关注Sentinel、Hystrix，从如下几个方面展开：
-- 引入时间成本
-- 对代码的侵入成都
-- 
+- 是否能达成应用商店的目标
+- 接入的时间成本
+- 对代码的侵入程度
+- 对已有业务的性能影响
+- 引入后常见的坑以及解决的难度
 
 # 2.Sentinel提供的能力
 ![主要的特性](https://user-images.githubusercontent.com/9434884/50505538-2c484880-0aaf-11e9-9ffc-cbaaef20be2b.png)
